@@ -1,31 +1,40 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Amith%20Gerri&fontSize=70&animation=fadeIn&fontAlignY=40&desc=CSE%20Student%20|%20Backend%20%26%20AI%20Systems&descAlignY=65&descAlign=50" width="100%" alt="Header banner" />
-</div>
+<h1 align="center">Hi there, I'm Amith Gerri! 👋</h1>
+<h3 align="center">💻 CSE Student | Backend Developer</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Passionate+about+building+robust+backend+architectures;Integrating+state-of-the-art+AI+systems;Always+learning+and+exploring+new+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Building+robust+backend+architectures;Creating+scalable+APIs;Always+learning+new+technologies" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
-<br/>
+---
 
+### 👨‍💻 About Me
+I am a Computer Science Engineering student with a strong passion for backend development. I enjoy designing robust architectures, working with databases, and building APIs that power scalable applications. I'm constantly exploring new tools and best practices to write clean, efficient, and maintainable code.
+
+### 🛠️ Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Included Python, AI tools, Backend, plus standard web tech based on your repos -->
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django,nodejs,ts,js,docker,postgres,git,linux&perline=12" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,postgres,docker,git,linux" alt="Tech Stack" />
   </a>
 </div>
 
 <br/>
 
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amith2144&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amith2144&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amith2144&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amith2144&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+### 🤝 Let's Connect
 <div align="center">
   <a href="https://linkedin.com/in/amithgerri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
