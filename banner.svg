@@ -1,0 +1,97 @@
+<svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    
+    <!-- Base Isometric Cube -->
+    <g id="cube">
+      <!-- Top face -->
+      <polygon points="0,0 30,-15 60,0 30,15" fill="#4f46e5" opacity="0.8"/>
+      <!-- Left face -->
+      <polygon points="0,0 30,15 30,45 0,30" fill="#3730a3" opacity="0.9"/>
+      <!-- Right face -->
+      <polygon points="60,0 30,15 30,45 60,30" fill="#312e81" opacity="0.9"/>
+      <!-- Highlight -->
+      <polygon points="0,0 30,-15 31,-14 1,1" fill="#818cf8" opacity="0.5"/>
+    </g>
+
+    <g id="cube-small">
+      <!-- Top face -->
+      <polygon points="0,0 15,-7.5 30,0 15,7.5" fill="#7c3aed" opacity="0.7"/>
+      <!-- Left face -->
+      <polygon points="0,0 15,7.5 15,22.5 0,15" fill="#5b21b6" opacity="0.8"/>
+      <!-- Right face -->
+      <polygon points="30,0 15,7.5 15,22.5 30,15" fill="#4c1d95" opacity="0.8"/>
+    </g>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)" rx="12" />
+
+  <!-- Moving Isometric Shapes -->
+  <g>
+    <!-- Cube 1 -->
+    <g transform="translate(50, 250)">
+      <animate attributeName="opacity" values="0; 0.8; 0" dur="8s" repeatCount="indefinite" />
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="200,-100" dur="8s" repeatCount="indefinite" />
+        <use href="#cube" />
+      </g>
+    </g>
+    
+    <!-- Cube 2 -->
+    <g transform="translate(600, 180)">
+      <animate attributeName="opacity" values="0; 0.6; 0" dur="10s" repeatCount="indefinite" />
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="-200,100" dur="10s" repeatCount="indefinite" />
+        <use href="#cube-small" />
+      </g>
+    </g>
+    
+    <!-- Cube 3 -->
+    <g transform="translate(300, 50)">
+      <animate attributeName="opacity" values="0; 0.7; 0" dur="12s" repeatCount="indefinite" />
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="150,-75" dur="12s" repeatCount="indefinite" />
+        <use href="#cube" transform="scale(0.8)" />
+      </g>
+    </g>
+    
+    <!-- Cube 4 -->
+    <g transform="translate(-20, 100)">
+      <animate attributeName="opacity" values="0; 0.5; 0" dur="15s" repeatCount="indefinite" />
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="250,-125" dur="15s" repeatCount="indefinite" />
+        <use href="#cube-small" transform="scale(1.5)" />
+      </g>
+    </g>
+
+    <!-- Cube 5 -->
+    <g transform="translate(750, 280)">
+      <animate attributeName="opacity" values="0; 0.8; 0" dur="9s" repeatCount="indefinite" />
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="-300,150" dur="9s" repeatCount="indefinite" />
+        <use href="#cube" />
+      </g>
+    </g>
+
+    <!-- Cube 6 -->
+    <g transform="translate(450, 250)">
+      <animate attributeName="opacity" values="0; 0.9; 0" dur="14s" repeatCount="indefinite" />
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="200,-100" dur="14s" repeatCount="indefinite" />
+        <use href="#cube-small" />
+      </g>
+    </g>
+  </g>
+
+  <!-- Overlay to darken background slightly behind text for better readability -->
+  <rect width="100%" height="100%" fill="#000000" opacity="0.3" rx="12" />
+
+  <!-- Text Content -->
+  <text x="400" y="125" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="46" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">Amith Gerri</text>
+  <text x="400" y="165" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="500" fill="#cbd5e1" text-anchor="middle" letter-spacing="0.5">AI Engineer · Business Systems Specialist</text>
+</svg>
