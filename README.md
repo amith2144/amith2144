@@ -1,7 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm Amith Gerri! 👋</h1>
-  <h3>💻 CSE Student | Backend & AI Systems Developer</h3>
-  <p>Passionate about building robust backend architectures and integrating AI systems.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Amith%20Gerri&fontSize=70&animation=fadeIn&fontAlignY=40&desc=CSE%20Student%20|%20Backend%20%26%20AI%20Systems&descAlignY=65&descAlign=50" width="100%" alt="Header banner" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Passionate+about+building+robust+backend+architectures;Integrating+state-of-the-art+AI+systems;Always+learning+and+exploring+new+technologies" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
