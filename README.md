@@ -1,20 +1,19 @@
 # Amith Gerri
 
-**AI Systems Architect & Production Engineer**  
-Focused on designing and deploying autonomous agent systems, high-throughput retrieval pipelines, and enterprise-grade software architectures.
+Building modern products and business solutions that solve real problems for people — powered by practical AI.
 
 ---
 
-### What I Build
+### What I Do
 
-- **Autonomous Agentic Systems** — Multi-agent cognitive architectures, deterministic tool-calling workflows, and resilient state machines.
-- **Enterprise Retrieval & RAG** — Hybrid semantic search (pgvector), domain-adapted re-ranking, and low-latency inference pipelines.
-- **Production Infrastructure** — High-concurrency asynchronous backends (FastAPI / Python), event-driven microservices, and containerized deployments.
+- **Products People Love** — Turning everyday friction and business bottlenecks into intuitive, reliable products that deliver immediate value.
+- **AI-Powered Operations** — Leveraging modern AI to eliminate repetitive manual work, automate complex workflows, and drive operational efficiency.
+- **Zero-to-One Execution** — Moving swiftly from customer insights and ideas to functional, revenue-generating solutions.
 
 ---
 
-### Engagements & Advisory
+### Let's Build
 
-Available for select architectural consulting, contract engineering, and enterprise AI implementations.
+Open to discussing new ventures, commercial collaborations, and high-impact product builds.
 
-[Email](mailto:amithgerri2144@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/amithgerri) &nbsp;·&nbsp; [GitHub](https://github.com/amith2144) &nbsp;·&nbsp; [X (Twitter)](https://twitter.com/Amith_2144)
+[Email](mailto:amithgerri2144@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/amithgerri) &nbsp;·&nbsp; [X (Twitter)](https://twitter.com/Amith_2144) &nbsp;·&nbsp; [GitHub](https://github.com/amith2144)
