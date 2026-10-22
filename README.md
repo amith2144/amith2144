@@ -1,49 +1,33 @@
 # Amith Gerri
 
 **Product Engineer &amp; Builder**  
-Building modern software and business solutions that solve real problems for people — using AI as practical leverage.
+Building modern software and intelligent business workflows that solve real problems for people — using AI as practical leverage.
 
 ---
 
-### What I Do
+### Focus &amp; Principles
 
-<table>
-  <tr>
-    <td width="30%"><b>01 &nbsp; Products People Love</b></td>
-    <td>Turning everyday friction and business bottlenecks into intuitive, reliable software that delivers immediate value.</td>
-  </tr>
-  <tr>
-    <td width="30%"><b>02 &nbsp; AI-Powered Automation</b></td>
-    <td>Leveraging modern AI to eliminate repetitive manual work, streamline operations, and unlock scalable efficiency.</td>
-  </tr>
-  <tr>
-    <td width="30%"><b>03 &nbsp; End-to-End Execution</b></td>
-    <td>Moving swiftly from customer insights and ideas to working code, rapid iteration, and production deployment.</td>
-  </tr>
-</table>
+* **01 // Products People Love** &mdash; Turning everyday friction and business bottlenecks into intuitive, high-utility software that delivers immediate value.
+* **02 // Autonomous Operations** &mdash; Eliminating repetitive manual processes by designing intelligent, automated business workflows.
+* **03 // Zero-to-One Execution** &mdash; Moving swiftly from customer insights and ideas to functional, revenue-generating solutions.
 
 ---
 
-### Engineering &amp; Tooling
+### Selected Work
 
-<table>
-  <tr>
-    <td width="22%"><b>Core Stack</b></td>
-    <td>
-      <kbd>Python</kbd> &nbsp;
-      <kbd>TypeScript</kbd> &nbsp;
-      <kbd>React</kbd> &nbsp;
-      <kbd>Next.js</kbd> &nbsp;
-      <kbd>FastAPI</kbd> &nbsp;
-      <kbd>PostgreSQL</kbd> &nbsp;
-      <kbd>Docker</kbd>
-    </td>
-  </tr>
-  <tr>
-    <td width="22%"><b>Focus Areas</b></td>
-    <td>Full-stack web applications &nbsp;·&nbsp; Autonomous workflow automations &nbsp;·&nbsp; Intelligent business tools</td>
-  </tr>
-</table>
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [**Accounts Receivable Automation**](https://github.com/amith2144/AI-Accounts-Receivable-Automation) | Autonomous invoice reconciliation and payment tracking platform | <kbd>Python</kbd> <kbd>FastAPI</kbd> | `Active` |
+| [**Life System**](https://life-system-blush.vercel.app) | Minimalist personal operating system for daily productivity and habit tracking | <kbd>React</kbd> <kbd>TypeScript</kbd> | `Live` |
+| [**Customer Support Engine**](https://github.com/amith2144/AI-Customer-Support) | Intelligent query resolution platform automating high-volume support tasks | <kbd>TypeScript</kbd> <kbd>AI</kbd> | `Deployed` |
+| [**Knowledge Assistant**](https://github.com/amith2144/AI-Knowledge-Assistant) | Organizational retrieval tool converting complex docs into immediate answers | <kbd>TypeScript</kbd> <kbd>API</kbd> | `Active` |
+
+---
+
+### Technical Arsenal
+
+**Core Languages &amp; Web** &nbsp;&nbsp; <kbd>Python</kbd> &nbsp; <kbd>TypeScript</kbd> &nbsp; <kbd>React</kbd> &nbsp; <kbd>Next.js</kbd> &nbsp; <kbd>FastAPI</kbd>  
+**Data &amp; Infrastructure** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>PostgreSQL</kbd> &nbsp; <kbd>Docker</kbd> &nbsp; <kbd>REST APIs</kbd> &nbsp; <kbd>Vercel</kbd>
 
 ---
 
